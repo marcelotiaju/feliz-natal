@@ -27,7 +27,7 @@ const criarArvore = (tamanho) => {
    tronco.style.textAlign = "center";
 }
 
-criarArvore (30);
+criarArvore (25);
 // criarArvore (prompt("Digite o tamanho da arvore!!!"));
 
 setInterval(() => {
